@@ -1,0 +1,13 @@
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.exe
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.deps.json
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.runtimeconfig.json
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.dll
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\bin\Debug\netcoreapp3.1\PrimeiroPrograma.pdb
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.dll
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.pdb
+C:\Users\artur\Desktop\PSI\PrimeiroPrograma\obj\Debug\netcoreapp3.1\PrimeiroPrograma.genruntimeconfig.cache
