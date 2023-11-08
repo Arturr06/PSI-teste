@@ -6,3 +6,5 @@
 * Benfica
 * Porto
 * Sporting
+
+![Simbolo da escola](escola.png)
